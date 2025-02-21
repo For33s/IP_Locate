@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto permite a los usuarios visualizar información detallada sobre su IP pública, incluyendo el proveedor de servicios de Internet (ISP) al que está vinculada, la ubicación geográfica aproximada, el tipo de conexión y otros datos relevantes. Con esta herramienta, puedes obtener información rápida y precisa sobre tu dirección IP pública sin necesidad de software adicional.
+Este proyecto permite a los usuarios visualizar información detallada sobre su IP pública, la ubicación geográfica aproximada, el tipo de conexión y otros datos relevantes. Con esta herramienta, puedes obtener información rápida y precisa sobre tu dirección IP pública sin necesidad de software adicional.
 
 ## Funcionalidades
 
