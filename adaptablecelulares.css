@@ -1,0 +1,188 @@
+header {
+  background-color: rgba(0, 0, 0, 0.8);
+  width: 100%;
+  position: fixed;
+  z-index: 2000;
+}
+
+.logo {
+  padding: 15px 10px;
+  float: none;
+  /* display: block; */
+  justify-content: center;
+  background-color: #191919;
+}
+
+#tittle {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+  color: #fff;
+  text-shadow: #2b6744 2px 2px 2px;
+}
+
+nav {
+  float: none;
+  text-align: center;
+}
+
+nav ul {
+  display: inline-block;
+  list-style: none;
+  overflow: hidden;
+}
+
+nav ul li {
+  display: inline;
+  font-size: 16px;
+}
+
+nav ul li a {
+  display: inline-block;
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+  transition: all 0.1s ease-in-out 0s;
+}
+
+nav ul li a:hover {
+  background-color: #2b6744;
+}
+
+
+main {
+  /* padding: 134px 6px; */
+  padding-top: 120px;
+  /* padding-right: 100px; */
+  display: block;
+  width: 92%;
+}
+
+main > div {
+  margin: 5px;
+  width: 100%;
+}
+
+.div1 {
+  width: 99%;
+  padding: 10px;
+  margin: 16px auto;
+}
+
+.div2 {
+  width: 99%;
+  padding: 10px;
+  margin: 16px auto;
+}
+
+#map {
+  height: 200px;
+  width: 100%;
+}
+
+#parrafo1 {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-size: 16px;
+}
+
+label {
+  display: block;
+  width: 100%;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.title {
+  font-size: 28px;
+  text-align: center;
+}
+
+.hora {
+  padding: 8px;
+  text-align: center;
+}
+
+.input-beautiful {
+  padding: 4px;
+  margin-top: 4px;
+  width: 97%;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  color: #37815b;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #191919;
+}
+
+.input-beautiful:focus {
+  outline: none;
+  border-color: #37815b;
+  box-shadow: 0 0 5px #37815b;
+}
+
+.div3 {
+  width: 92%;
+  /* padding: 10px; */
+  padding-left: 18px;
+}
+
+#formulario-dominio {
+  padding-top: 10px;
+}
+
+#labeldominio {
+  width: 100%;
+}
+
+#formulario-dominio button {
+  margin-top: 10px;
+  margin-right: 14px;
+}
+
+footer {
+  width: 100%;
+}
+
+/* Contenido de FindIp*/
+
+.contenidoip {
+  padding-top: 130px;
+}
+
+.btn {
+  margin-top: 6px;
+}
+
+/* Contenido de WhatsIp*/
+
+#contenedor-whatsip {
+  padding-top: 134px;
+  width: 88%;
+}
+
+.acordeon {
+  width: 100%;
+}
+
+.acordeon .contenido {
+  width: 100%;
+}
+
+/* Contácto */
+
+#contenedor-contacto {
+  padding-top: 134px;
+}
+
+/* Política */
+#politicas {
+  padding-top: 134px;
+}
+
+/* Términos */
+#terminos {
+  padding-top: 134px;
+}
