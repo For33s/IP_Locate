@@ -22,4 +22,4 @@ Este proyecto permite a los usuarios visualizar información detallada sobre su 
 
 1. **Clona este repositorio:**
    ```bash
-   git clone https://github.com/for33s/IP_Locate.git
+   git clone https://github.com/for3ss/IP_Locate.git

@@ -3,6 +3,7 @@ include 'menu.php';
 
 if (isset ($_POST['btnbusqueda'])) {
   $busqueda = $_POST['ipbusqueda'];
+  // Cambia por un Key Válido
   $access_key = '85b5ed67-386c-4feb-b32e-3fe037dc6772';
 
   // Initialize CURL
